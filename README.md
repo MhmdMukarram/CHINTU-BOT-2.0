@@ -19,17 +19,12 @@ Project created by <a href="https://github.com/MhmdMukarram">RedAlpha</a> to mak
 
 ----
 
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="https://instagram.com/_0anshid0_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANUSER1&show_icons=true&theme=dark&locale=en" alt="ANUSER1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MhmdMukarram&show_icons=true&theme=dark&locale=en" alt="Red Alpha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANUSER1&theme=dark" alt="ANUSER1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MhmdMukarram&theme=dark" alt="Red Alpha" /></p>
 </p>
 
 
