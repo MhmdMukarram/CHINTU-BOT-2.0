@@ -2,7 +2,7 @@ let fetch = require ('node-fetch')
 let handler = async (m, { conn }) => {
     let devil = `ㅤ
 `.trim()
-    await conn.send2ButtonLoc(m.chat, await (await fetch("https://raw.githubusercontent.com/DEVILSER/DEVILSER/main/Media/Ammu/reduced_IMG-20211219-WA0031_2.jpg")).buffer(), devil, 'ᴡɪᴢᴀʀᴅ sᴇʀ  ʙʏ ᴀᴊᴍᴀʟ ᴀɴᴅ ᴀᴄʜᴜ\n\╔╗╔╗╔══╗╔══╗\n\║╚╝║║╔╗║╚║║╝\n\║╔╗║║╠╣║╔║║╗\n\╚╝╚╝╚╝╚╝╚══╝ \n\n\ https://github.com/Ajmal-Achu/Wizard-Ser \n\n\ © ī.am ꪶᴡɪᴢᴀʀᴅ sᴇʀꫂ⁩⁴⁰⁴⁩' , '❤️', '.❤️', '🙂', ',🙂')
+    await conn.send2ButtonLoc(m.chat, await (await fetch("https://i.ibb.co/N95Zqw4/logo.jpg")).buffer(), devil, 'ᴄʜɪɴᴛᴜ ʙᴏᴛ ʙʏ ༒︎𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰༒︎\n\╔╗╔╗╔══╗╔══╗\n\║╚╝║║╔╗║╚║║╝\n\║╔╗║║╠╣║╔║║╗\n\╚╝╚╝╚╝╚╝╚══╝ \n\n\ https://github.com/MhmdMukarram/CHINTU-BOT-2.0 \n\n\ © ᴄʜɪɴᴛᴜ ʙᴏᴛ⁩' , '❤️', '.❤️', '🙂', ',🙂')
 }
 handler.tags = ['main']
 handler.help = ['git']
